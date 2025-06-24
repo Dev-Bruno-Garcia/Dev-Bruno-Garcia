@@ -16,7 +16,6 @@
 📫 How to reach me: **your.email@example.com** or [LinkedIn](https://www.linkedin.com)  
 😄 Pronouns: **he/him** | **they/them**  
 ⚡ Fun fact: *I once built a whole app just to manage my coffee brewing habits ☕*
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coder GIF">
 
 ---
 
