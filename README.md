@@ -2,7 +2,7 @@
 
 <!-- Profil animé avec des badges, des gifs et des sections dynamiques -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&width=435&lines=Hi+there%2C+I'm+glad+you're+here!;Let's+build+something+great+together!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76E58&width=435&lines=Hi%2C+I'm+Bruno%2C+junior+web+developer.+I+code+for+the+pleasure+of+learning+and+to+stay+up-to-date.)](https://git.io/typing-svg)
 
 ---
 
