@@ -7,15 +7,12 @@
 ---
 
 ## 🚀 About Me
-
-🔭 I’m currently working on **a web platform for home assistance services**  
-🌱 I’m currently learning **React, TailwindCSS & Laravel**  
-👯 I’m looking to collaborate on **open source accessibility tools**  
-🤔 I’m looking for help with **optimizing backend performance (PHP/MySQL)**  
-💬 Ask me about **fullstack development, UI/UX, and Git workflows**  
-📫 How to reach me: **your.email@example.com** or [LinkedIn](https://www.linkedin.com)  
-😄 Pronouns: **he/him** | **they/them**  
-⚡ Fun fact: *I once built a whole app just to manage my coffee brewing habits ☕*
+🔭 I'm currently working on **a web platform for home assistance services**
+🌱 I'm learning for the sake of learning, as the field is vast,
+and constantly evolving. **Html, Css including Sass & Javascript**
+👯 I'm looking to progress on **open source accessibility tools**
+🤔 I'm looking for help to **find tutorials and thus optimise backend performance (PHP/MySQL)**.
+📫 How to reach me: **your.email@example.com** or [LinkedIn](https://www.linkedin.com)
 
 ---
 
